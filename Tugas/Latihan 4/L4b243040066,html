@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website</title>
+    <link rel="stylesheet" href="L4b243040066.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1 class="judul">MyWebsite</h1>
+            <ul>
+                <li><a href="#">home</a></li>
+                <li><a href="#">about</a></li>
+                <li><a href="#">products</a></li>
+                <li><a href="#">services</a></li>
+                <li><a href="#">contact</a></li>
+            </ul>
+        </div>
+        <div class="hero"></div>
+        <div class="content"></div>
+        <h2>Lamborghini</h2>
+        <p class="penulis">Ditulis Oleh <a href="#">Rizky Putra Prayoga</a>
+          pada 04 November 2024.</p>
+          <p>
+            Lamborghini adalah merek mobil mewah dan sports car yang terkenal dengan desain ekstensif, teknologi canggih, dan performa luar biasa. Berdiri di Italia pada tahun 1963 oleh Ferruccio Lamborghini, perusahaan ini awalnya dimaksudkan untuk bersaing dengan Ferrari dalam pasar mobil sport. 
+            Lamborghini memulai perjalanannya di Sant’Agata Bolognese, Italia, yang hingga kini tetap menjadi lokasi utama pabrik dan kantor pusatnya. Merek ini sekarang berada di bawah naungan Grup Volkswagen melalui anak perusahaannya, Audi.
+          </p>
+          <p>
+            Sejarah dan Pendiri
+Ferruccio Lamborghini memulai kariernya sebagai produsen traktor pasca-Perang Dunia II, dengan perusahaan bernama Lamborghini Trattori. Setelah sukses di bisnis ini, ia tertarik untuk membuat mobil sport yang lebih baik dari yang ada saat itu, karena ketidakpuasan pribadinya dengan mobil Ferrari yang dimilikinya. Akhirnya, Ferruccio mendirikan Automobili Lamborghini S.p.A. dan merancang mobil sport pertamanya, Lamborghini 350 GT, yang sukses di pasaran.
+
+          </p>
+          <p>
+            Filosofi Desain dan Teknologi
+Lamborghini dikenal dengan filosofi desain yang mengedepankan garis-garis tajam, aerodinamika, dan bentuk yang agresif. Setiap model yang diproduksi selalu mempertahankan ciri khas desain yang membuatnya mudah dikenali di antara mobil sport lainnya. Selain itu, Lamborghini juga selalu menggunakan teknologi canggih dan material berkualitas tinggi, seperti serat karbon dan aluminium, untuk menjaga performa sekaligus ringan.
+          </p>
+          <p>
+            Mesin yang digunakan Lamborghini terkenal bertenaga tinggi, umumnya berupa mesin V10 atau V12 dengan kapasitas besar yang mampu menghasilkan tenaga ratusan hingga ribuan tenaga kuda. Misalnya, Lamborghini Aventador, salah satu model yang paling terkenal, memiliki mesin V12 6.5 liter yang menghasilkan sekitar 730 tenaga kuda. Hal ini memungkinkan Aventador melaju dari 0 hingga 100 km/jam dalam waktu kurang dari tiga detik.
+          </p>
+          <div class="footer">
+            <p class="copy">Copyright 2016, Rizky Putra. P.</p>
+        </div>
+</body>
+</html>

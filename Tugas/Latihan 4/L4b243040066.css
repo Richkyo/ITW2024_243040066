@@ -38,30 +38,29 @@ body {
 
 .hero {
     height: 280px;
-    background-image: url(Computer.jpg);
+    background-image: url(Lamborghini.jpg);
     background-size: cover;
     background-position: 0 -180px;
     border-top: 5px solid salmon;
-    border-bottom: 5px solid lightblue;
+    border-bottom: 5px solid salmon;
+    border-right: 5px solid salmon;
+    border-left: 5px solid salmon;
 }
 
 .content {
-    padding: 20px;
+    padding: 10px;
+    font-size: medium;
 }
 
 .content h2 {
-    font-size: 20px;
+    font-size: px;
     font-weight: bold;
 }
 
 .content .penulis {
-    font-size: 11px;
-    margin-top: -5px;
+    font-size: 2px;
 }
 
-.content p {
-    margin-bottom: 20px;
-}
 .footer {
     background: black;
     background-size: 20px;
